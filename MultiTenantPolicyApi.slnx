@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MultiTenantPolicyApi/MultiTenantPolicyApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="MultiTenantPolicyApi.Tests/MultiTenantPolicyApi.Tests.csproj" Id="79f6f008-7d31-4180-aef0-88b3db35ef53" />
+  </Folder>
+</Solution>
